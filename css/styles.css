@@ -6,8 +6,8 @@ body {
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-width: 15px;
-    width: 10%;
+    border-width: 10px;
+    width: 100px;
     border-color: #FFD1D1;
 }
 
@@ -22,7 +22,7 @@ h3 {
 
 .name {
     margin-top: -30px;
-    font-size: 2.5rem;
+    font-size: 2.5em;
 }
 
 .developer {
